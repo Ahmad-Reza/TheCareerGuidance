@@ -49,7 +49,8 @@ For Debugging use Firefox Browser
   b.) Installation of IDE(like Eclipse/Netbeans/Intelij), Database(like MySQL/Oracle etc) and Server(like Tomcat/GlassFish etc).
   
   c.) Create Dynamic Java Project in your IDE(eclipse), Where you see SRC, webContent folder you have to put all web related file like JSP within the "WebContent Folder" and Class. Interface and Servlet files within "Src Folder" like this.
-  ![Screenshot (342)](https://user-images.githubusercontent.com/46816394/106294085-bd80df00-6274-11eb-91e7-d278d3817ca0.png)
+ 
+ ![Screenshot (342)](https://user-images.githubusercontent.com/46816394/106294085-bd80df00-6274-11eb-91e7-d278d3817ca0.png)
   
   
 ---
