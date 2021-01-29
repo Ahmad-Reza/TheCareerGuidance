@@ -7,12 +7,15 @@ A fully featured Career Guidance Web Application implements with all the best pr
 
 ---
 
-![Screenshot (318)](https://user-images.githubusercontent.com/46816394/101811807-91809180-3b40-11eb-9702-c3d8d73bc6ec.png)
-![Screenshot (319)](https://user-images.githubusercontent.com/46816394/101811833-99d8cc80-3b40-11eb-8bb5-bbbdc153d815.png)
-![Screenshot (320)](https://user-images.githubusercontent.com/46816394/101811873-a65d2500-3b40-11eb-9e31-e639c697a916.png)
-![Screenshot (321)](https://user-images.githubusercontent.com/46816394/101811916-b1b05080-3b40-11eb-9ef0-4999cdad5de7.png)
-![Screenshot (322)](https://user-images.githubusercontent.com/46816394/101811924-b412aa80-3b40-11eb-84f8-01ac6a14d5aa.png)
-![Screenshot (323)](https://user-images.githubusercontent.com/46816394/101811957-bc6ae580-3b40-11eb-8eab-25eceb4bd074.png)
+![Screenshot (295)](https://user-images.githubusercontent.com/46816394/106277224-bcdd4e00-625e-11eb-8951-34d1d8a473f2.png)
+![Screenshot (290)](https://user-images.githubusercontent.com/46816394/106277246-c5ce1f80-625e-11eb-9f69-756ed4986f1c.png)
+![Screenshot (293)](https://user-images.githubusercontent.com/46816394/106277266-ce265a80-625e-11eb-83bf-bd3dbc66f20c.png)
+![Screenshot (294)](https://user-images.githubusercontent.com/46816394/106277286-d54d6880-625e-11eb-95f0-4491c1bcecd9.png)
+![Screenshot (300)](https://user-images.githubusercontent.com/46816394/106277350-f01fdd00-625e-11eb-9a81-372056da389b.png)
+![Screenshot (301)](https://user-images.githubusercontent.com/46816394/106277363-f6ae5480-625e-11eb-8d67-94e2a3df3ce4.png)
+![Screenshot (310)](https://user-images.githubusercontent.com/46816394/106277428-1776aa00-625f-11eb-9b8c-9aeef5920f2a.png)
+![Screenshot (311)](https://user-images.githubusercontent.com/46816394/106277448-22c9d580-625f-11eb-8149-6e4a6de88180.png)
+![Screenshot (312)](https://user-images.githubusercontent.com/46816394/106277458-29584d00-625f-11eb-9cfe-2049745a09e7.png)
 
 ***
 ## How i did this project
