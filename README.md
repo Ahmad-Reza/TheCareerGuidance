@@ -29,23 +29,27 @@ I am working to add an amazing feature #TechBlog where #Developers like you and 
 ***
 ## How i did this project
 
-### With the help of
-## Programming Language
-  - JAVA
-## Technology
-  - JDBC, Servlet, JSP and Oracle 10g
-## Server
-  - Apache Tomcat 8.0
-## IDE
-  -Eclipse EE neon
-###For Debugging use Firefox Browser
+ With the help of
+ 
+a.) Programming Language - JAVA
+
+b.) Technology - JDBC, Servlet, JSP and Oracle 10g
+
+c.) Server - Apache Tomcat 8.0
+
+d.) IDE - Eclipse EE neon
+
+For Debugging use Firefox Browser
 ---
 
 ***
 ## How can you setup this project :
   a.) You have Knowledge of Core Java(JavaSE), Servlet, JSP ans basic Knowledge of Oracle 10g DDL.
+  
   b.) Installation of IDE(like Eclipse/Netbeans/Intelij), Database(like MySQL/Oracle etc) and Server(like Tomcat/GlassFish etc).
+  
   c.) Create Dynamic Java Project in your IDE(eclipse), Where you see SRC, webContent folder you have to put all web related file like JSP within the "WebContent Folder" and Class. Interface and Servlet files within "Src Folder" like this.
+  ![Screenshot (342)](https://user-images.githubusercontent.com/46816394/106294085-bd80df00-6274-11eb-91e7-d278d3817ca0.png)
   
   
 ---
